@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+body{
+    background-image: url("assets/pikaso_embed.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    
+}
+.formty{
+    width: 40%;
+    border-radius: 4%;
+    background-color: rgba(38, 83, 47, 0.745);
+    margin-top: 7%;
+    
+}
+.inner{
+    
+    width: 80%;
+}
+.form-group input{
+    margin-bottom: 2vh;
+    font-weight: 700;
+    padding: 7px;
+   
+}
+.nono{
+    font-weight: bolder;
+}
+
+
